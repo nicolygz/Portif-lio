@@ -20,7 +20,7 @@ Meu portfólio está disponível no GitHub. Caso queira conferir, acesse o link:
 
 ## 📬 Contato
 Você pode me encontrar através de:
-- **LinkedIn:** [🔗 Adicione o link do seu perfil]  
+- **LinkedIn:** [🔗https://www.linkedin.com/in/nicoly-guedes-dev/]  
 - **E-mail:** [📧guedesdeabreunicoly@gmail.com]  
 
 Sinta-se à vontade para explorar meu portfólio e entrar em contato comigo! 😊
