@@ -1,4 +1,5 @@
-# 📌 Meu Portfólio
+# 📌 Meu Portfólio.
+
 
 Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para apresentar minha trajetória na área de programação, incluindo meus estudos, cursos e formas de contato.
 
